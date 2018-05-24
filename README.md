@@ -1,1 +1,3 @@
 # Mapeo1aMuchosOrden_Alex
+
+Commit 24/05/2018: Añadido el proyecto Mapeo1aMuchosOrden_Alex, el cual persiste dos clases con relación 1 a n: Persona y Libros. Cada persona tendrá tres libros asignados y cada libro pertenece a una única persona. Aparentemente todo funciona correctamente y sin producir errores de ejcución, pero la función update me está generando nuevos registros en vez de actualizar los existentes, dejando registros huérfanos y no he conseguido averiguar el motivo.
